@@ -425,7 +425,7 @@
                 </div>
                 <div class="input-group mb-2 col-4">
                     <div class="input-group-prepend">
-                    <span class="input-group-text"><b>Km</b></span>
+                    <span class="input-group-text"><b>Kms</b></span>
                     </div>
                     <input type="numeric" name="kmsalida" class="form-control" onkeypress='return validaNumericos(event)' style="text-transform:uppercase" required>
 
